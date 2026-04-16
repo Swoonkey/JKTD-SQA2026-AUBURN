@@ -1,0 +1,62 @@
+[
+  {
+    "requirement_id": "REQ-117.130-001A",
+    "description": "Conduct hazard analysis for each type of food manufactured or processed",
+    "source": "21 CFR 117.130",
+    "parent": "REQ-117.130-001"
+  },
+  {
+    "requirement_id": "REQ-117.130-001B",
+    "description": "Identify known or reasonably foreseeable hazards",
+    "source": "21 CFR 117.130",
+    "parent": "REQ-117.130-001"
+  },
+  {
+    "requirement_id": "REQ-117.130-001F",
+    "description": "Hazard analysis must be written",
+    "source": "21 CFR 117.130",
+    "parent": "REQ-117.130-001"
+  },
+  {
+    "requirement_id": "REQ-117.130-002A",
+    "description": "Biological hazards must be considered",
+    "source": "21 CFR 117.130",
+    "parent": "REQ-117.130-002"
+  },
+  {
+    "requirement_id": "REQ-117.130-002B",
+    "description": "Chemical hazards must be considered",
+    "source": "21 CFR 117.130",
+    "parent": "REQ-117.130-002"
+  },
+  {
+    "requirement_id": "REQ-117.130-002C",
+    "description": "Physical hazards must be considered",
+    "source": "21 CFR 117.130",
+    "parent": "REQ-117.130-002"
+  },
+  {
+    "requirement_id": "REQ-117.130-003AA",
+    "description": "Assess severity and probability of hazard occurrence",
+    "source": "21 CFR 117.130",
+    "parent": "REQ-117.130-003A"
+  },
+  {
+    "requirement_id": "REQ-117.130-003AB",
+    "description": "Evaluate environmental pathogens for ready-to-eat foods",
+    "source": "21 CFR 117.130",
+    "parent": "REQ-117.130-003A"
+  },
+  {
+    "requirement_id": "REQ-117.130-003BA",
+    "description": "Consider formulation of the food",
+    "source": "21 CFR 117.130",
+    "parent": "REQ-117.130-003B"
+  },
+  {
+    "requirement_id": "REQ-117.130-003BB",
+    "description": "Consider facility and equipment condition, function, and design",
+    "source": "21 CFR 117.130",
+    "parent": "REQ-117.130-003B"
+  }
+]
