@@ -1,0 +1,242 @@
+[
+  {
+    "test_case_id": "TC-001",
+    "requirement_id": "REQ-117.130-001A",
+    "description": "Verify that the system satisfies: Conduct hazard analysis for each type of food manufactured or processed",
+    "input_data": {
+      "facility_type": "food manufacturing facility",
+      "food_type": "ready-to-eat packaged food",
+      "requirement_source": "21 CFR 117.130",
+      "parent_requirement": "REQ-117.130-001"
+    },
+    "expected_output": {
+      "status": "PASS",
+      "compliance": true,
+      "details": "System demonstrates compliance with: Conduct hazard analysis for each type of food manufactured or processed"
+    },
+    "steps": [
+      "1. Locate documentation relevant to REQ-117.130-001A (21 CFR 117.130).",
+      "2. Verify the facility has addressed: Conduct hazard analysis for each type of food manufactured or processed.",
+      "3. Review written records or system outputs for evidence of compliance.",
+      "4. Compare actual output against expected compliance state.",
+      "5. Record PASS if compliant, FAIL with details if not."
+    ],
+    "notes": "Derived from 21 CFR 117.130, parent requirement: REQ-117.130-001. Atomic rule: REQ-117.130-001A."
+  },
+  {
+    "test_case_id": "TC-002",
+    "requirement_id": "REQ-117.130-001B",
+    "description": "Verify that the system satisfies: Identify known or reasonably foreseeable hazards",
+    "input_data": {
+      "facility_type": "food manufacturing facility",
+      "food_type": "ready-to-eat packaged food",
+      "requirement_source": "21 CFR 117.130",
+      "parent_requirement": "REQ-117.130-001"
+    },
+    "expected_output": {
+      "status": "PASS",
+      "compliance": true,
+      "details": "System demonstrates compliance with: Identify known or reasonably foreseeable hazards"
+    },
+    "steps": [
+      "1. Locate documentation relevant to REQ-117.130-001B (21 CFR 117.130).",
+      "2. Verify the facility has addressed: Identify known or reasonably foreseeable hazards.",
+      "3. Review written records or system outputs for evidence of compliance.",
+      "4. Compare actual output against expected compliance state.",
+      "5. Record PASS if compliant, FAIL with details if not."
+    ],
+    "notes": "Derived from 21 CFR 117.130, parent requirement: REQ-117.130-001. Atomic rule: REQ-117.130-001B."
+  },
+  {
+    "test_case_id": "TC-003",
+    "requirement_id": "REQ-117.130-001F",
+    "description": "Verify that the system satisfies: Hazard analysis must be written",
+    "input_data": {
+      "facility_type": "food manufacturing facility",
+      "food_type": "ready-to-eat packaged food",
+      "requirement_source": "21 CFR 117.130",
+      "parent_requirement": "REQ-117.130-001"
+    },
+    "expected_output": {
+      "status": "PASS",
+      "compliance": true,
+      "details": "System demonstrates compliance with: Hazard analysis must be written"
+    },
+    "steps": [
+      "1. Locate documentation relevant to REQ-117.130-001F (21 CFR 117.130).",
+      "2. Verify the facility has addressed: Hazard analysis must be written.",
+      "3. Review written records or system outputs for evidence of compliance.",
+      "4. Compare actual output against expected compliance state.",
+      "5. Record PASS if compliant, FAIL with details if not."
+    ],
+    "notes": "Derived from 21 CFR 117.130, parent requirement: REQ-117.130-001. Atomic rule: REQ-117.130-001F."
+  },
+  {
+    "test_case_id": "TC-004",
+    "requirement_id": "REQ-117.130-002A",
+    "description": "Verify that the system satisfies: Biological hazards must be considered",
+    "input_data": {
+      "facility_type": "food manufacturing facility",
+      "food_type": "ready-to-eat packaged food",
+      "requirement_source": "21 CFR 117.130",
+      "parent_requirement": "REQ-117.130-002"
+    },
+    "expected_output": {
+      "status": "PASS",
+      "compliance": true,
+      "details": "System demonstrates compliance with: Biological hazards must be considered"
+    },
+    "steps": [
+      "1. Locate documentation relevant to REQ-117.130-002A (21 CFR 117.130).",
+      "2. Verify the facility has addressed: Biological hazards must be considered.",
+      "3. Review written records or system outputs for evidence of compliance.",
+      "4. Compare actual output against expected compliance state.",
+      "5. Record PASS if compliant, FAIL with details if not."
+    ],
+    "notes": "Derived from 21 CFR 117.130, parent requirement: REQ-117.130-002. Atomic rule: REQ-117.130-002A."
+  },
+  {
+    "test_case_id": "TC-005",
+    "requirement_id": "REQ-117.130-002B",
+    "description": "Verify that the system satisfies: Chemical hazards must be considered",
+    "input_data": {
+      "facility_type": "food manufacturing facility",
+      "food_type": "ready-to-eat packaged food",
+      "requirement_source": "21 CFR 117.130",
+      "parent_requirement": "REQ-117.130-002"
+    },
+    "expected_output": {
+      "status": "PASS",
+      "compliance": true,
+      "details": "System demonstrates compliance with: Chemical hazards must be considered"
+    },
+    "steps": [
+      "1. Locate documentation relevant to REQ-117.130-002B (21 CFR 117.130).",
+      "2. Verify the facility has addressed: Chemical hazards must be considered.",
+      "3. Review written records or system outputs for evidence of compliance.",
+      "4. Compare actual output against expected compliance state.",
+      "5. Record PASS if compliant, FAIL with details if not."
+    ],
+    "notes": "Derived from 21 CFR 117.130, parent requirement: REQ-117.130-002. Atomic rule: REQ-117.130-002B."
+  },
+  {
+    "test_case_id": "TC-006",
+    "requirement_id": "REQ-117.130-002C",
+    "description": "Verify that the system satisfies: Physical hazards must be considered",
+    "input_data": {
+      "facility_type": "food manufacturing facility",
+      "food_type": "ready-to-eat packaged food",
+      "requirement_source": "21 CFR 117.130",
+      "parent_requirement": "REQ-117.130-002"
+    },
+    "expected_output": {
+      "status": "PASS",
+      "compliance": true,
+      "details": "System demonstrates compliance with: Physical hazards must be considered"
+    },
+    "steps": [
+      "1. Locate documentation relevant to REQ-117.130-002C (21 CFR 117.130).",
+      "2. Verify the facility has addressed: Physical hazards must be considered.",
+      "3. Review written records or system outputs for evidence of compliance.",
+      "4. Compare actual output against expected compliance state.",
+      "5. Record PASS if compliant, FAIL with details if not."
+    ],
+    "notes": "Derived from 21 CFR 117.130, parent requirement: REQ-117.130-002. Atomic rule: REQ-117.130-002C."
+  },
+  {
+    "test_case_id": "TC-007",
+    "requirement_id": "REQ-117.130-003AA",
+    "description": "Verify that the system satisfies: Assess severity and probability of hazard occurrence",
+    "input_data": {
+      "facility_type": "food manufacturing facility",
+      "food_type": "ready-to-eat packaged food",
+      "requirement_source": "21 CFR 117.130",
+      "parent_requirement": "REQ-117.130-003A"
+    },
+    "expected_output": {
+      "status": "PASS",
+      "compliance": true,
+      "details": "System demonstrates compliance with: Assess severity and probability of hazard occurrence"
+    },
+    "steps": [
+      "1. Locate documentation relevant to REQ-117.130-003AA (21 CFR 117.130).",
+      "2. Verify the facility has addressed: Assess severity and probability of hazard occurrence.",
+      "3. Review written records or system outputs for evidence of compliance.",
+      "4. Compare actual output against expected compliance state.",
+      "5. Record PASS if compliant, FAIL with details if not."
+    ],
+    "notes": "Derived from 21 CFR 117.130, parent requirement: REQ-117.130-003A. Atomic rule: REQ-117.130-003AA."
+  },
+  {
+    "test_case_id": "TC-008",
+    "requirement_id": "REQ-117.130-003AB",
+    "description": "Verify that the system satisfies: Evaluate environmental pathogens for ready-to-eat foods",
+    "input_data": {
+      "facility_type": "food manufacturing facility",
+      "food_type": "ready-to-eat packaged food",
+      "requirement_source": "21 CFR 117.130",
+      "parent_requirement": "REQ-117.130-003A"
+    },
+    "expected_output": {
+      "status": "PASS",
+      "compliance": true,
+      "details": "System demonstrates compliance with: Evaluate environmental pathogens for ready-to-eat foods"
+    },
+    "steps": [
+      "1. Locate documentation relevant to REQ-117.130-003AB (21 CFR 117.130).",
+      "2. Verify the facility has addressed: Evaluate environmental pathogens for ready-to-eat foods.",
+      "3. Review written records or system outputs for evidence of compliance.",
+      "4. Compare actual output against expected compliance state.",
+      "5. Record PASS if compliant, FAIL with details if not."
+    ],
+    "notes": "Derived from 21 CFR 117.130, parent requirement: REQ-117.130-003A. Atomic rule: REQ-117.130-003AB."
+  },
+  {
+    "test_case_id": "TC-009",
+    "requirement_id": "REQ-117.130-003BA",
+    "description": "Verify that the system satisfies: Consider formulation of the food",
+    "input_data": {
+      "facility_type": "food manufacturing facility",
+      "food_type": "ready-to-eat packaged food",
+      "requirement_source": "21 CFR 117.130",
+      "parent_requirement": "REQ-117.130-003B"
+    },
+    "expected_output": {
+      "status": "PASS",
+      "compliance": true,
+      "details": "System demonstrates compliance with: Consider formulation of the food"
+    },
+    "steps": [
+      "1. Locate documentation relevant to REQ-117.130-003BA (21 CFR 117.130).",
+      "2. Verify the facility has addressed: Consider formulation of the food.",
+      "3. Review written records or system outputs for evidence of compliance.",
+      "4. Compare actual output against expected compliance state.",
+      "5. Record PASS if compliant, FAIL with details if not."
+    ],
+    "notes": "Derived from 21 CFR 117.130, parent requirement: REQ-117.130-003B. Atomic rule: REQ-117.130-003BA."
+  },
+  {
+    "test_case_id": "TC-010",
+    "requirement_id": "REQ-117.130-003BB",
+    "description": "Verify that the system satisfies: Consider facility and equipment condition, function, and design",
+    "input_data": {
+      "facility_type": "food manufacturing facility",
+      "food_type": "ready-to-eat packaged food",
+      "requirement_source": "21 CFR 117.130",
+      "parent_requirement": "REQ-117.130-003B"
+    },
+    "expected_output": {
+      "status": "PASS",
+      "compliance": true,
+      "details": "System demonstrates compliance with: Consider facility and equipment condition, function, and design"
+    },
+    "steps": [
+      "1. Locate documentation relevant to REQ-117.130-003BB (21 CFR 117.130).",
+      "2. Verify the facility has addressed: Consider facility and equipment condition, function, and design.",
+      "3. Review written records or system outputs for evidence of compliance.",
+      "4. Compare actual output against expected compliance state.",
+      "5. Record PASS if compliant, FAIL with details if not."
+    ],
+    "notes": "Derived from 21 CFR 117.130, parent requirement: REQ-117.130-003B. Atomic rule: REQ-117.130-003BB."
+  }
+]
