@@ -4,7 +4,7 @@
 
 
 ### Task 1 – Jase Schwanke
-We parsed through '21_CFR_117.130.md' regulatory document and selected 10 atomic rules. These were then encoded in 'requirements.json', with each entry containing a 'requirement_id', description, source, and parent field for better traceability. We produced 'expected_structure.json', which maps each parent requirement ID to the expected child letter suffixes. This required careful reading of the CFR text to correctly assign letters and ignore numbering errors in the source document.
+We parsed through `21_CFR_117.130.md` regulatory document and selected 10 atomic rules. These were then encoded in `requirements.json`, with each entry containing a `requirement_id`, description, source, and parent field for better traceability. We produced `expected_structure.json`, which maps each parent requirement ID to the expected child letter suffixes. This required careful reading of the CFR text to correctly assign letters and ignore numbering errors in the source document.
 
 ### Task 2 – Krish Modi
 We wrote `generate_test_cases.py` to consume `requirements.json` and `expected_structure.json` and produce `test_cases.json`. Each test case was structured with a unique `test_case_id`, a linked `requirement_id`, a description of what is being verified, structured `input_data`, an `expected_output` block, step-by-step test instructions, and traceability notes back to the source regulation. One test case was generated per requirement.
