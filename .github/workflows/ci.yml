@@ -24,3 +24,6 @@ jobs:
 
       - name: Verify requirements and test cases
         run: python verify.py
+        
+      - name: Run Forensick Integration
+        run: python forensick.py
