@@ -3,13 +3,13 @@
 
 
 
-### Task 1 – Jase Schwanke
-We parsed through `21_CFR_117.130.md` regulatory document and selected 10 atomic rules. These were then encoded in `requirements.json`, with each entry containing a `requirement_id`, description, source, and parent field for better traceability. We produced `expected_structure.json`, which maps each parent requirement ID to the expected child letter suffixes. This required careful reading of the CFR text to correctly assign letters and ignore numbering errors in the source document.
+### Task 1 – Jase Schwanke, Drew Black
+We modified `generate requirements.py` to parse through `21_CFR_117.130.md` regulatory document and generate `requirements.json` and `expected_structure.json` for all listed requirements. These were then encoded in `requirements.json`, with each entry containing a `requirement_id`, description, source, and parent field for better traceability. We then selected 10 atomic rules and updated `expected_structure.json` to reflect this.`expected_structure.json` maps each selected parent requirement ID to the expected child letter suffixes.
 
-### Task 2 – Krish Modi
+### Task 2 – Krish Modi, Drew Black
 We wrote `generate_test_cases.py` to consume `requirements.json` and `expected_structure.json` and produce `test_cases.json`. Each test case was structured with a unique `test_case_id`, a linked `requirement_id`, a description of what is being verified, structured `input_data`, an `expected_output` block, step-by-step test instructions, and traceability notes back to the source regulation. One test case was generated per requirement.
 
-### Task 3 – Jase Schwanke, Drew Black
+### Task 3 – Jase Schwanke
 We implemented two separate scripts:
 
 - **`verify.py`** (Verification): Checks that all requirements conform to structural rules — required fields are present, requirement IDs match a defined regex format (`REQ-[\w\.]+-\d{3}[A-Z]{1,2}`), each requirement has at least one test case, descriptions avoid vague language, and parent-child ID relationships are consistent.
@@ -17,7 +17,7 @@ We implemented two separate scripts:
 
 Both scripts exit with code `1` on failure so that the GitHub Actions CI pipeline reports a failed build. We tested both the passing and failing states and captured screenshots of each outcome.
 
-### Task 4 – Ty Mullinx, Drew Black
+### Task 4 – Ty Mullinx
 We integrated Forensick into five points across the V&V scripts and CI workflow to capture forensic evidence of quality events. The five integration points were:
 
 1. **Requirement skipped/missing** — when `validate.py` detects a missing child requirement, a Forensick event is logged with the missing requirement ID and the parent context.
