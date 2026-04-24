@@ -19,7 +19,7 @@ def log_run_start():
     log("=== FORENSICK RUN STARTED ===")
 
 # M2: Check for missing requirements in test_cases.json
-def check_missing_requirements(requirements_path="requirements.json",
+def check_missing_requirements(requirements_path="chosen_requirements.json",
                                 test_cases_path="test_cases.json"):
     log("METHOD 2: Checking for requirements missing from test cases...")
     try:
@@ -87,7 +87,7 @@ def check_test_case_completeness(test_cases_path="test_cases.json"):
         log("  OK: All test cases have the required fields.")
 
 # M5: Log overall forensick summary and CI-style pass/fail
-def log_summary(requirements_path="requirements.json",
+def log_summary(requirements_path="chosen_requirements.json",
                 test_cases_path="test_cases.json"):
     log("METHOD 5: Generating forensick summary report...")
     try:

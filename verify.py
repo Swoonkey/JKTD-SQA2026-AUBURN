@@ -14,7 +14,7 @@ Rules:
 """
 
 # Load requirements and test cases
-with open("requirements.json") as f:
+with open("chosen_requirements.json") as f:
     requirements = json.load(f)
 
 with open("test_cases.json") as f:

@@ -17,7 +17,7 @@
     "steps": [
       "1. Locate documentation relevant to REQ-117.130-001A (21 CFR 117.130).",
       "2. Verify the facility has addressed: Conduct hazard analysis for each type of food manufactured or processed.",
-      "3. Review written records or system outputs for evidence of compliance.",
+      "3. Review written records or system task 1 outputs for evidence of compliance.",
       "4. Compare actual output against expected compliance state.",
       "5. Record PASS if compliant, FAIL with details if not."
     ],
@@ -41,7 +41,7 @@
     "steps": [
       "1. Locate documentation relevant to REQ-117.130-001B (21 CFR 117.130).",
       "2. Verify the facility has addressed: Identify known or reasonably foreseeable hazards.",
-      "3. Review written records or system outputs for evidence of compliance.",
+      "3. Review written records or system task 1 outputs for evidence of compliance.",
       "4. Compare actual output against expected compliance state.",
       "5. Record PASS if compliant, FAIL with details if not."
     ],
@@ -65,7 +65,7 @@
     "steps": [
       "1. Locate documentation relevant to REQ-117.130-001F (21 CFR 117.130).",
       "2. Verify the facility has addressed: Hazard analysis must be written.",
-      "3. Review written records or system outputs for evidence of compliance.",
+      "3. Review written records or system task 1 outputs for evidence of compliance.",
       "4. Compare actual output against expected compliance state.",
       "5. Record PASS if compliant, FAIL with details if not."
     ],
@@ -73,7 +73,7 @@
   },
   {
     "test_case_id": "TC-004",
-    "requirement_id": "REQ-117.130-002A",
+    "requirement_id": "REQ-117.130-002-1A",
     "description": "Verify that the system satisfies: Biological hazards must be considered",
     "input_data": {
       "facility_type": "food manufacturing facility",
@@ -87,17 +87,17 @@
       "details": "System demonstrates compliance with: Biological hazards must be considered"
     },
     "steps": [
-      "1. Locate documentation relevant to REQ-117.130-002A (21 CFR 117.130).",
+      "1. Locate documentation relevant to REQ-117.130-002-1A (21 CFR 117.130).",
       "2. Verify the facility has addressed: Biological hazards must be considered.",
-      "3. Review written records or system outputs for evidence of compliance.",
+      "3. Review written records or system task 1 outputs for evidence of compliance.",
       "4. Compare actual output against expected compliance state.",
       "5. Record PASS if compliant, FAIL with details if not."
     ],
-    "notes": "Derived from 21 CFR 117.130, parent requirement: REQ-117.130-002. Atomic rule: REQ-117.130-002A."
+    "notes": "Derived from 21 CFR 117.130, parent requirement: REQ-117.130-002. Atomic rule: REQ-117.130-002-1A."
   },
   {
     "test_case_id": "TC-005",
-    "requirement_id": "REQ-117.130-002B",
+    "requirement_id": "REQ-117.130-002-1B",
     "description": "Verify that the system satisfies: Chemical hazards must be considered",
     "input_data": {
       "facility_type": "food manufacturing facility",
@@ -111,17 +111,17 @@
       "details": "System demonstrates compliance with: Chemical hazards must be considered"
     },
     "steps": [
-      "1. Locate documentation relevant to REQ-117.130-002B (21 CFR 117.130).",
+      "1. Locate documentation relevant to REQ-117.130-002-1B (21 CFR 117.130).",
       "2. Verify the facility has addressed: Chemical hazards must be considered.",
-      "3. Review written records or system outputs for evidence of compliance.",
+      "3. Review written records or system task 1 outputs for evidence of compliance.",
       "4. Compare actual output against expected compliance state.",
       "5. Record PASS if compliant, FAIL with details if not."
     ],
-    "notes": "Derived from 21 CFR 117.130, parent requirement: REQ-117.130-002. Atomic rule: REQ-117.130-002B."
+    "notes": "Derived from 21 CFR 117.130, parent requirement: REQ-117.130-002. Atomic rule: REQ-117.130-002-1B."
   },
   {
     "test_case_id": "TC-006",
-    "requirement_id": "REQ-117.130-002C",
+    "requirement_id": "REQ-117.130-002-1C",
     "description": "Verify that the system satisfies: Physical hazards must be considered",
     "input_data": {
       "facility_type": "food manufacturing facility",
@@ -135,13 +135,13 @@
       "details": "System demonstrates compliance with: Physical hazards must be considered"
     },
     "steps": [
-      "1. Locate documentation relevant to REQ-117.130-002C (21 CFR 117.130).",
+      "1. Locate documentation relevant to REQ-117.130-002-1C (21 CFR 117.130).",
       "2. Verify the facility has addressed: Physical hazards must be considered.",
-      "3. Review written records or system outputs for evidence of compliance.",
+      "3. Review written records or system task 1 outputs for evidence of compliance.",
       "4. Compare actual output against expected compliance state.",
       "5. Record PASS if compliant, FAIL with details if not."
     ],
-    "notes": "Derived from 21 CFR 117.130, parent requirement: REQ-117.130-002. Atomic rule: REQ-117.130-002C."
+    "notes": "Derived from 21 CFR 117.130, parent requirement: REQ-117.130-002. Atomic rule: REQ-117.130-002-1C."
   },
   {
     "test_case_id": "TC-007",
@@ -161,7 +161,7 @@
     "steps": [
       "1. Locate documentation relevant to REQ-117.130-003AA (21 CFR 117.130).",
       "2. Verify the facility has addressed: Assess severity and probability of hazard occurrence.",
-      "3. Review written records or system outputs for evidence of compliance.",
+      "3. Review written records or system task 1 outputs for evidence of compliance.",
       "4. Compare actual output against expected compliance state.",
       "5. Record PASS if compliant, FAIL with details if not."
     ],
@@ -185,7 +185,7 @@
     "steps": [
       "1. Locate documentation relevant to REQ-117.130-003AB (21 CFR 117.130).",
       "2. Verify the facility has addressed: Evaluate environmental pathogens for ready-to-eat foods.",
-      "3. Review written records or system outputs for evidence of compliance.",
+      "3. Review written records or system task 1 outputs for evidence of compliance.",
       "4. Compare actual output against expected compliance state.",
       "5. Record PASS if compliant, FAIL with details if not."
     ],
@@ -209,7 +209,7 @@
     "steps": [
       "1. Locate documentation relevant to REQ-117.130-003BA (21 CFR 117.130).",
       "2. Verify the facility has addressed: Consider formulation of the food.",
-      "3. Review written records or system outputs for evidence of compliance.",
+      "3. Review written records or system task 1 outputs for evidence of compliance.",
       "4. Compare actual output against expected compliance state.",
       "5. Record PASS if compliant, FAIL with details if not."
     ],
@@ -233,7 +233,7 @@
     "steps": [
       "1. Locate documentation relevant to REQ-117.130-003BB (21 CFR 117.130).",
       "2. Verify the facility has addressed: Consider facility and equipment condition, function, and design.",
-      "3. Review written records or system outputs for evidence of compliance.",
+      "3. Review written records or system task 1 outputs for evidence of compliance.",
       "4. Compare actual output against expected compliance state.",
       "5. Record PASS if compliant, FAIL with details if not."
     ],

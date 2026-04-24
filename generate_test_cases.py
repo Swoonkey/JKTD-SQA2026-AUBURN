@@ -1,7 +1,7 @@
 import json
 import os
 
-REQUIREMENTS_PATH = "requirements.json"
+REQUIREMENTS_PATH = "chosen_requirements.json"
 EXPECTED_STRUCTURE_PATH = "expected_structure.json"
 OUTPUT_PATH = "test_cases.json"
 
@@ -51,7 +51,7 @@ def generate_test_cases():
             "steps": [
                 f"1. Locate documentation relevant to {req_id} ({source}).",
                 f"2. Verify the facility has addressed: {description}.",
-                "3. Review written records or system outputs for evidence of compliance.",
+                "3. Review written records or system task 1 outputs for evidence of compliance.",
                 "4. Compare actual output against expected compliance state.",
                 "5. Record PASS if compliant, FAIL with details if not."
             ],

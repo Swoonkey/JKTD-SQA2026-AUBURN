@@ -2,7 +2,7 @@ import json
 import sys
 
 # Load requirements and expected structure
-with open("requirements.json") as f:
+with open("chosen_requirements.json") as f:
     requirements = json.load(f)
 
 with open("expected_structure.json") as f:
