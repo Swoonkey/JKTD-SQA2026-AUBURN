@@ -1,145 +1,145 @@
 [
   {
     "requirement_id": "REQ-117.130-001A",
-    "description": "- (1) Conduct hazard analysis",
+    "description": "Conduct hazard analysis",
     "source": "21 CFR 117.130",
     "parent": "REQ-117.130-001"
   },
   {
     "requirement_id": "REQ-117.130-001B",
-    "description": "- Identify known hazards",
+    "description": "Identify known hazards",
     "source": "21 CFR 117.130",
     "parent": "REQ-117.130-001"
   },
   {
     "requirement_id": "REQ-117.130-001C",
-    "description": "- Identify reasonably foreseeable hazards",
+    "description": "Identify reasonably foreseeable hazards",
     "source": "21 CFR 117.130",
     "parent": "REQ-117.130-001"
   },
   {
     "requirement_id": "REQ-117.130-001D",
-    "description": "- Evaluate hazards using data, experience, reports",
+    "description": "Evaluate hazards using data, experience, reports",
     "source": "21 CFR 117.130",
     "parent": "REQ-117.130-001"
   },
   {
     "requirement_id": "REQ-117.130-001E",
-    "description": "- Determine hazards requiring preventive controls",
+    "description": "Determine hazards requiring preventive controls",
     "source": "21 CFR 117.130",
     "parent": "REQ-117.130-001"
   },
   {
     "requirement_id": "REQ-117.130-001F",
-    "description": "- (2) Hazard analysis must be written",
+    "description": "Hazard analysis must be written",
     "source": "21 CFR 117.130",
     "parent": "REQ-117.130-001"
   },
   {
     "requirement_id": "REQ-117.130-002-1A",
-    "description": "- Biological hazards",
+    "description": "Biological hazards",
     "source": "21 CFR 117.130",
     "parent": "REQ-117.130-002-1"
   },
   {
     "requirement_id": "REQ-117.130-002-1B",
-    "description": "- Chemical hazards",
+    "description": "Chemical hazards",
     "source": "21 CFR 117.130",
     "parent": "REQ-117.130-002-1"
   },
   {
     "requirement_id": "REQ-117.130-002-1C",
-    "description": "- Physical hazards",
+    "description": "Physical hazards",
     "source": "21 CFR 117.130",
     "parent": "REQ-117.130-002-1"
   },
   {
     "requirement_id": "REQ-117.130-002-2A",
-    "description": "- Occur naturally",
+    "description": "Occur naturally",
     "source": "21 CFR 117.130",
     "parent": "REQ-117.130-002-2"
   },
   {
     "requirement_id": "REQ-117.130-002-2B",
-    "description": "- Unintentionally introduced",
+    "description": "Unintentionally introduced",
     "source": "21 CFR 117.130",
     "parent": "REQ-117.130-002-2"
   },
   {
     "requirement_id": "REQ-117.130-002-2C",
-    "description": "- Intentionally introduced for economic gain",
+    "description": "Intentionally introduced for economic gain",
     "source": "21 CFR 117.130",
     "parent": "REQ-117.130-002-2"
   },
   {
     "requirement_id": "REQ-117.130-003AA",
-    "description": "- (1) Evaluate identified hazards; - (i) Assess severity and probability of hazard occurrence",
+    "description": "Evaluate identified hazards; Assess severity and probability of hazard occurrence",
     "source": "21 CFR 117.130",
     "parent": "REQ-117.130-003A"
   },
   {
     "requirement_id": "REQ-117.130-003AB",
-    "description": "- (1) Evaluate identified hazards; - (ii) Evaluate environmental pathogens for ready-to-eat foods",
+    "description": "Evaluate identified hazards; Evaluate environmental pathogens for ready-to-eat foods",
     "source": "21 CFR 117.130",
     "parent": "REQ-117.130-003A"
   },
   {
     "requirement_id": "REQ-117.130-003BA",
-    "description": "- (2) Consider effects on safety of finished food; - (i) Formulation of the food",
+    "description": "Consider effects on safety of finished food; Formulation of the food",
     "source": "21 CFR 117.130",
     "parent": "REQ-117.130-003B"
   },
   {
     "requirement_id": "REQ-117.130-003BB",
-    "description": "- (2) Consider effects on safety of finished food; - (ii) Facility and equipment condition, function, design",
+    "description": "Consider effects on safety of finished food; Facility and equipment condition, function, design",
     "source": "21 CFR 117.130",
     "parent": "REQ-117.130-003B"
   },
   {
     "requirement_id": "REQ-117.130-003BC",
-    "description": "- (2) Consider effects on safety of finished food; - (iii) Raw materials and other ingredients",
+    "description": "Consider effects on safety of finished food; Raw materials and other ingredients",
     "source": "21 CFR 117.130",
     "parent": "REQ-117.130-003B"
   },
   {
     "requirement_id": "REQ-117.130-003BD",
-    "description": "- (2) Consider effects on safety of finished food; - (iv) Transportation practices",
+    "description": "Consider effects on safety of finished food; Transportation practices",
     "source": "21 CFR 117.130",
     "parent": "REQ-117.130-003B"
   },
   {
     "requirement_id": "REQ-117.130-003BE",
-    "description": "- (2) Consider effects on safety of finished food; - (v) Manufacturing/processing procedures",
+    "description": "Consider effects on safety of finished food; Manufacturing/processing procedures",
     "source": "21 CFR 117.130",
     "parent": "REQ-117.130-003B"
   },
   {
     "requirement_id": "REQ-117.130-003BF",
-    "description": "- (2) Consider effects on safety of finished food; - (vi) Packaging and labeling activities",
+    "description": "Consider effects on safety of finished food; Packaging and labeling activities",
     "source": "21 CFR 117.130",
     "parent": "REQ-117.130-003B"
   },
   {
     "requirement_id": "REQ-117.130-003BG",
-    "description": "- (2) Consider effects on safety of finished food; - (vii) Storage and distribution",
+    "description": "Consider effects on safety of finished food; Storage and distribution",
     "source": "21 CFR 117.130",
     "parent": "REQ-117.130-003B"
   },
   {
     "requirement_id": "REQ-117.130-003BH",
-    "description": "- (2) Consider effects on safety of finished food; - (viii) Intended or reasonably foreseeable use",
+    "description": "Consider effects on safety of finished food; Intended or reasonably foreseeable use",
     "source": "21 CFR 117.130",
     "parent": "REQ-117.130-003B"
   },
   {
     "requirement_id": "REQ-117.130-003BI",
-    "description": "- (2) Consider effects on safety of finished food; - (ix) Sanitation, including employee hygiene",
+    "description": "Consider effects on safety of finished food; Sanitation, including employee hygiene",
     "source": "21 CFR 117.130",
     "parent": "REQ-117.130-003B"
   },
   {
     "requirement_id": "REQ-117.130-003BJ",
-    "description": "- (2) Consider effects on safety of finished food; - (x) Any other relevant factors (e.g., temporal/natural toxins)",
+    "description": "Consider effects on safety of finished food; Any other relevant factors (e.g., temporal/natural toxins)",
     "source": "21 CFR 117.130",
     "parent": "REQ-117.130-003B"
   }

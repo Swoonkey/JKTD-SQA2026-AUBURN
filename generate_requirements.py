@@ -42,8 +42,7 @@ for line in lines:
     atomic_match = re.match(r"^(.*?)\s*\u2192\s*([A-Z]\d*)$", line)
     if atomic_match and current_req:
         description = atomic_match.group(1).strip()
-        # Strip leading bullet markers and parentheses
-        description = re.sub(r"^[-\s]*(\([ivxlcdmIVXLCDM\d]+\)\s*)+", "", description).strip()
+        description = re.sub(r"^(\([ivxlcdmIVXLCDM]+\)\s*|[^a-zA-Z])+", "", description).strip()
         suffix = atomic_match.group(2)
         base_req = f"{current_req}-{current_subsection}" if current_subsection else current_req
         parent_key = f"{base_req}{suffix[0]}"
